@@ -23,7 +23,7 @@ class DataNilai:
                 akhir = (tugas * 0.30) + (uts * 0.35) + (uas * 0.35)
                 print(f"| {idx:2} | {nim:9} | {nama:10} | {tugas:5} | {uts:3} | {uas:3} | {akhir:5.2f} |")
         print("="*61)
-        print("\n[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari (K)eluar]:t")
+        print("\n[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari (K)eluar]: ")
 
     def tambah_data(self):
         print("\nTambah Data")
