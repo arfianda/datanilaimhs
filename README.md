@@ -4,7 +4,13 @@ Program sederhana untuk mengelola data nilai mahasiswa menggunakan Python dengan
 
 # Demo Program
 
+**Fitur Tambah**
 ![](gif/tambah.gif)
+
+**Fitur Lihat**
+![](gif/lihat.gif)
+
+
 
 ## Deskripsi Program
 
