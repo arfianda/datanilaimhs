@@ -10,6 +10,7 @@ Program sederhana untuk mengelola data nilai mahasiswa menggunakan Python dengan
 **Fitur Lihat**
 ![](gif/lihat.gif)
 
+Untuk Fitur lainnya bisa dicoba sendiri
 
 
 ## Deskripsi Program
